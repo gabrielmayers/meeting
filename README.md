@@ -1,6 +1,6 @@
 # meeting
 
-A new Flutter application.
+A principle of a Social Network cross-platform just using Flutter and Firebase.
 
 ## Getting Started
 
